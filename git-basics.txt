@@ -11,7 +11,7 @@ of the project files.
 More than one person can make changes to the same file at the same time.  Each person 
 receives a copy of the current version to work on.  When each person’s copy is ready 
 to be added to make a new version, Git checks for any places that more than one change 
-is made, but that are different.  Git will make the person in charge decide which of 
+is made, but that are different and ask the person in charge to decide which of 
 those changes to keep.
 
 
