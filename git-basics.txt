@@ -14,3 +14,22 @@ to be added to make a new version, Git checks for any places that more than one 
 is made, but that are different.  Git will make the person in charge decide which of 
 those changes to keep.
 
+
+GitHub
+
+GitHub is a website that hosts software projects that Git is tracking.  Using the Git 
+program on your computer, you upload your files to GitHub.  You then have a back up 
+copy and you can work on your project even if you don't have your computer.  Git tracks 
+both the files on your computer and the files held at GitHub.
+
+After you have made changes to the files on your computer, you can use Git to sync your 
+files held at GitHub with your newly changed files on your computer. Git, of course
+keeps a history of all of your changes.
+
+This is how a team of people can work on one project at the same time as the others 
+on the team.  The main copy of the project is hosted at GitHub.  As you start to update 
+the project, you download the main copy to your own computer because others may have 
+made changes since the last time you worked on it.  After making changes to the copy 
+of the main program held on your computer, you upload those changes to GitHub.  The team 
+can review the changes that you've made then decide to update the main program with 
+your changes.
