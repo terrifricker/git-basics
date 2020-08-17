@@ -5,7 +5,7 @@ programming project. It keeps exact copies of previous progress before any new c
 is made.  If a change does not work like it should or introduces a bug, Git allows 
 you to go back to the exact copy of the files before the change was made.
 
-Any changes you make to your program are made on copies of your original files.  When 
+Any updates you make to your program are made on copies of your original files.  When 
 you decide that the changes should be made to the original files, Git makes the changes 
 and gives you a new "version" of the original files, but saves the old originals, just 
 in case you need them in the future.
